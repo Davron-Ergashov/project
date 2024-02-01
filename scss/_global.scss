@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+ol,ul{
+    list-style: none;
+}
+
+.container{
+    max-width: 1110px;
+    margin-right: auto;
+    margin-left: auto;
+}
